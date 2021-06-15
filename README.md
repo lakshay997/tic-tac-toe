@@ -1,1 +1,5 @@
-Tic Tac Toe game with 3 levels of difficulty. At the 'difficult' level uses minimax algorithm, which makes it unbeatable. 
+Take pull or download zip file of the project
+In repository open terminal/cmd
+Install NodeJS and ReactJS
+Run npm install
+Run npm start
