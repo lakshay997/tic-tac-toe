@@ -84,7 +84,7 @@ const TicTacToe = ({ squares = arr }) => {
   /**
    * Make computer move. If it's the first move (board is empty), make move at any random cell to skip
    * unnecessary minimax calculations
-   * @type {Function}
+  //  * @type {Function}
    */
   const computerMove = useCallback(() => {
     // Important to pass a copy of the grid here
